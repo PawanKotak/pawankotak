@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m currently working with Infosys Limited as Specialist Programmer.
-- 🌱 Currently learning Reactjs, NodeJS
+- 🌱 Currently learning React, Node.js
 
